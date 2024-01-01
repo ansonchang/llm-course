@@ -1,4 +1,4 @@
-# 🗣️ Large Language Model Course
+# 🗣 Large Language Model Course
 
 <p align="center"><a href="https://twitter.com/maximelabonne">Follow me on X</a> • <a href="https://mlabonne.github.io/blog">Blog</a> • <a href="https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python">Hands-on GNN</a></p>
 
