@@ -26,6 +26,8 @@ A list of courses covers Generative AI and Large Language Model.
 
 ## 📝 LLM Articles focuses on how to create LLM-based solutions and deploy them. 
 
+### Architectures & Patterns 
+* Patterns for Building LLM-based Systems & Products <a href="https://eugeneyan.com/writing/llm-patterns/">Click</a>
 ### Pre-training from scratch
 ### Fine-tuning
 ### Evaluation
