@@ -19,7 +19,7 @@ A list of courses covers Generative AI and Large Language Model.
 * <a href="https://www.cloudskillsboost.google/paths/183">Generative AI for Developers Learning Path</a> (7 Courses & 2 Labs)
 * (Free)<a href="https://www.cloudskillsboost.google/course_templates/556">Generative AI Fundamentals</a> (3 Courses) My certificate: <a href="https://www.cloudskillsboost.google/public_profiles/ce95ebbe-86bc-4456-b5b0-271b0151fbeb/badges/6741501">Here</a>
 ### AWS
-* (Free)<a href="https://explore.skillbuilder.aws/learn/lp/2068/generative-ai-learning-plan-for-developers">Generative AI Learning Plan for Developers</a> My certificate: <a href="">Here</a>
+* (Free)<a href="https://explore.skillbuilder.aws/learn/lp/2068/generative-ai-learning-plan-for-developers">Generative AI Learning Plan for Developers</a> My certificate: <a href="lp_2068_4_4694674_1703515023_AWS Learning Plan Completion Certificate.pdf">Here</a>
 
 ## 📝 LLM Articles focuses on how to create LLM-based solutions and deploy them. 
 
