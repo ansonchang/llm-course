@@ -16,7 +16,7 @@ A list of courses covers Generative AI and Large Language Model.
 ### Coursera
 * deeplearning.ai & AWS <a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with Large Language Models</a> My certificate: <a href="https://www.coursera.org/account/accomplishments/certificate/LRBGW87LLCU8">Here</a>
 ### LinkedIn
-* Microsoft <a href="">Career Essentials in Generative AI by Microsoft and LinkedIn</a> (6 Courses & 1 Exam) My certificate: <a href="https://www.linkedin.com/learning/certificates/7d2365b6224400b95ace28e78e5b41fd1b1642c44859821941cf0a5ccf78eb60?u=117675186">Here</a>
+* Microsoft <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=117675186">Career Essentials in Generative AI by Microsoft and LinkedIn</a> (6 Courses & 1 Exam) My certificate: <a href="https://www.linkedin.com/learning/certificates/7d2365b6224400b95ace28e78e5b41fd1b1642c44859821941cf0a5ccf78eb60?u=117675186">Here</a>
 * 
 ### Google Cloud
 * <a href="https://www.cloudskillsboost.google/paths/183">Generative AI for Developers Learning Path</a> (7 Courses & 2 Labs)
