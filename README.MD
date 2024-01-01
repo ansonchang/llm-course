@@ -4,12 +4,12 @@
 
 The LLM course is divided into two parts:
 
-1. 🧩 **LLM Courses** covers Generative AI and Large Language Model.
-2. 👷 **LLM Articles** focuses on how to create LLM-based solutions and deploy them.
+1. 🧩 **LLM Courses** cover Generative AI and Large Language Model.
+2. 👷 **LLM Articles** focus on how to create LLM-based solutions and deploy them.
 
-## 📝 LLM Courses
+## 📝 LLM Course
 
-A list of courses covers Generative AI and Large Language Model.
+A list of courses cover Generative AI and Large Language Model.
 ### edX
 * databricks LLM101x <a href="https://learning.edx.org/course/course-v1:Databricks+LLM101x+3T2023/home">Large Language Models: Application through Production</a> My certificate: <a href="https://courses.edx.org/certificates/a00af4c099c0490bae60ba24c86ea990">Here</a>
 * databricks LLM102x <a href="https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home">Large Language Models: Foundation Models from the Ground Up</a>  
@@ -24,13 +24,16 @@ A list of courses covers Generative AI and Large Language Model.
 ### AWS
 * (Free)<a href="https://explore.skillbuilder.aws/learn/lp/2068/generative-ai-learning-plan-for-developers">Generative AI Learning Plan for Developers</a> (3 Courses) My certificate: <a href="lp_2068_4_4694674_1703515023_AWS Learning Plan Completion Certificate.pdf">Here</a>
 
-## 📝 LLM Articles focuses on how to create LLM-based solutions and deploy them. 
+## 📝 LLM Articles focus on how to create LLM-based solutions and deploy them. 
 
 ### Architectures & Patterns 
 * Patterns for Building LLM-based Systems & Products <a href="https://eugeneyan.com/writing/llm-patterns/">Click</a>
 ### Pre-training from scratch
+
 ### Fine-tuning
+* A guide on how to Finetune Large Language Models (LLMs) in 2023 <a href="https://blog.monsterapi.ai/fine-tune-a-large-language-model-llm-guide-2023/">Click</a>
 ### Evaluation
+* All about evaluating Large language models <a href="https://explodinggradients.com/all-about-evaluating-large-language-models#heading-evaluation-metrics">Click</a>
 ### Prompting techniques 
 
 
