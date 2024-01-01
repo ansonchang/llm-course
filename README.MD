@@ -35,5 +35,5 @@ A list of courses cover Generative AI and Large Language Model.
 ### Evaluation
 * All about evaluating Large language models <a href="https://explodinggradients.com/all-about-evaluating-large-language-models#heading-evaluation-metrics">Click</a>
 ### Prompting techniques 
-
+* Nine Prompt Patterns That You Must Know if You Want To Become a Highly-Paid Prompt Engineer <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
 
