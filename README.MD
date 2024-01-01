@@ -40,7 +40,7 @@ A list of courses cover Generative AI and Large Language Model.
 ## 📝 LLM Researches focus on how to enhance LLM-based solutions
 
 ### Enhance Accuracy from Model
-
+* Mamba: A shallow dive into a new architecture for LLMs  <a href="https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957">Click</a>
 ### Enhance Accuracy from Prompt
 * LLMLingua - Designing a Language for LLMs via Prompt Compression <a href="https://llmlingua.com/">Click</a>
 ### Improve Inference Efficiency and Keep Accuracy 
