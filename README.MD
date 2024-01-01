@@ -11,8 +11,8 @@ The LLM course is divided into two parts:
 
 A list of courses covers Generative AI and Large Language Model.
 ### edX
-* LLM 101x
-* LLM 1012
+* (LLM101x) Large Language Models: Application through Production(https://learning.edx.org/course/course-v1:Databricks+LLM101x+3T2023/home)
+* (LLM102x) Large Language Models: Foundation Models from the Ground Up(https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)
 ### Coursera
 * abc
 ### Google Cloud
