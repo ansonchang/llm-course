@@ -2,10 +2,11 @@
 
 <p align="center"></p>
 
-The LLM course is divided into two parts:
+The LLM course is divided into three parts:
 
 1. 🧩 **LLM Courses** cover Generative AI and Large Language Model.
 2. 👷 **LLM Articles** focus on how to create LLM-based solutions and deploy them.
+3. 👷 **LLM Researches** focus on how to enhance LLM-based solutions.
 
 ## 📝 LLM Course
 
@@ -29,11 +30,19 @@ A list of courses cover Generative AI and Large Language Model.
 ### Architectures & Patterns 
 * Patterns for Building LLM-based Systems & Products <a href="https://eugeneyan.com/writing/llm-patterns/">Click</a>
 ### Pre-training from scratch
-
 ### Fine-tuning
 * A guide on how to Finetune Large Language Models (LLMs) in 2023 <a href="https://blog.monsterapi.ai/fine-tune-a-large-language-model-llm-guide-2023/">Click</a>
 ### Evaluation
 * All about evaluating Large language models <a href="https://explodinggradients.com/all-about-evaluating-large-language-models#heading-evaluation-metrics">Click</a>
 ### Prompting techniques 
 * Nine Prompt Patterns That You Must Know if You Want To Become a Highly-Paid Prompt Engineer <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
+
+## 📝 LLM Researches focus on how to enhance LLM-based solutions
+
+### Enhance Accuracy from Model
+
+### Enhance Accuracy from Prompt
+* LLMLingua - Designing a Language for LLMs via Prompt Compression <a href="https://llmlingua.com/">Click</a>
+### Improve Inference Efficiency and Keep Accuracy 
+* EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation <a href="https://github.com/SafeAILab/EAGLE">Click</a>
 
