@@ -13,7 +13,7 @@ The LLM course is divided into three parts:
 A list of courses cover Generative AI and Large Language Model.
 ### edX
 * databricks LLM101x <a href="https://learning.edx.org/course/course-v1:Databricks+LLM101x+3T2023/home">Large Language Models: Application through Production</a> My certificate: <a href="https://courses.edx.org/certificates/a00af4c099c0490bae60ba24c86ea990">Here</a>
-* databricks LLM102x <a href="https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home">Large Language Models: Foundation Models from the Ground Up</a>  
+* databricks LLM102x <a href="https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home">Large Language Models: Foundation Models from the Ground Up</a> My certificate: <a href="https://courses.edx.org/certificates/7a3390daf36a4bb987342e302f7e2a09">Here</a> Finished LLM101x/LLM102x get <a href="https://credentials.edx.org/credentials/87fe89f3c00d4c7ea55853e95e4d5051/"> LLM Pro certificate</a>
 ### Coursera
 * deeplearning.ai & AWS <a href="https://www.coursera.org/learn/generative-ai-with-llms">Generative AI with Large Language Models</a> My certificate: <a href="https://www.coursera.org/account/accomplishments/certificate/LRBGW87LLCU8">Here</a>
 ### LinkedIn
