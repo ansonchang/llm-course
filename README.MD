@@ -58,4 +58,6 @@ A list of courses cover Generative AI and Large Language Model.
 
 * 2024/01/16 Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering <a href="https://arxiv.org/pdf/2401.08500.pdf">Click</a>
 
+* Panda: Performance Debugging for Databases using LLM Agents　<a href="https://assets.amazon.science/4f/47/4325f2b44c92963a2728a372ad3b/panda-performance-debugging-for-databases-using-llm-agents.pdf">Click</a>
+
 * 2023/12/27 How to Prompt LLMs for Text-to-SQL: A Study in Zero-shot, Single-domain, and Cross-domain Settings <a href="https://arxiv.org/pdf/2305.11853.pdf">Click</a>
