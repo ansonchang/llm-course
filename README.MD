@@ -46,6 +46,7 @@ A list of courses cover Generative AI and Large Language Model.
 * Mamba: A shallow dive into a new architecture for LLMs  <a href="https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957">Click</a>
 ### Enhance Accuracy, and keep Inference Efficiency
 * LLMLingua - Designing a Language for LLMs via Prompt Compression <a href="https://llmlingua.com/">Click</a>
+* Large Language Models are Null-Shot Learners　 <a href="https://arxiv.org/pdf/2401.08273v1.pdf">Click</a>
 ### Enhance Accuracy, but increase Inference Time
 * Introducing ASPIRE for selective prediction in LLMs <a href="https://blog.research.google/2024/01/introducing-aspire-for-selective.html?m=1">Click</a>
 ### Enhance Inference Efficiency, and Keep Accuracy 
