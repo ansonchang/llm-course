@@ -1,4 +1,4 @@
-# Large Language Model Course Collection
+# Large Language Model Course / Artice / Paper Collection
 
 <p align="center"></p>
 
@@ -52,3 +52,8 @@ A list of courses cover Generative AI and Large Language Model.
 ### Improve Inference Efficiency but lose accurary
 * LLM Puning, LLM Quantization, LLM Distillation
 
+## 📝 Code LLM Researches & Articles
+
+* 2024/01/16 Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering <a href="https://arxiv.org/pdf/2401.08500.pdf">Click</a>
+
+* 2023/12/27 How to Prompt LLMs for Text-to-SQL: A Study in Zero-shot, Single-domain, and Cross-domain Settings <a href="https://arxiv.org/pdf/2305.11853.pdf">Click</a>
