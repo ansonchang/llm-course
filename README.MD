@@ -7,6 +7,7 @@ The LLM course is divided into three parts:
 1. 🧩 **LLM Courses** cover Generative AI and Large Language Model.
 2. 👷 **LLM Articles** focus on how to create LLM-based solutions and deploy them.
 3. 👷 **LLM Researches** focus on how to enhance LLM-based solutions.
+4. 👷 **Code LLM Researches & Articles** 
 
 ## 📝 LLM Course
 
