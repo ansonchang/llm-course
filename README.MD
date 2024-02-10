@@ -35,8 +35,9 @@ A list of courses cover Generative AI and Large Language Model.
 ### Fine-tuning
 * A guide on how to Finetune Large Language Models (LLMs) in 2023 <a href="https://blog.monsterapi.ai/fine-tune-a-large-language-model-llm-guide-2023/">Click</a>
 ### Evaluation
-* All about evaluating Large language models <a href="https://explodinggradients.com/all-about-evaluating-large-language-models#heading-evaluation-metrics">Click</a>
+* All about evaluating Large language models <a href="https://llmnanban.akmmusai.pro/Book/LLM-Prompt-Engineering-Simplified-Book/">Click</a>
 ### Prompting techniques 
+* LLM Prompt Engineering Simplified Book <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
 * Nine Prompt Patterns That You Must Know if You Want To Become a Highly-Paid Prompt Engineer <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
 * Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 <a href="https://arxiv.org/pdf/2312.16171v1.pdf">Click</a>
 
