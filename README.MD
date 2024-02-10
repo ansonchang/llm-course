@@ -37,7 +37,7 @@ A list of courses cover Generative AI and Large Language Model.
 ### Evaluation
 * All about evaluating Large language models <a href="https://llmnanban.akmmusai.pro/Book/LLM-Prompt-Engineering-Simplified-Book/">Click</a>
 ### Prompting techniques 
-* LLM Prompt Engineering Simplified Book <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
+* LLM Prompt Engineering Simplified Book <a href="https://llmnanban.akmmusai.pro/Book/LLM-Prompt-Engineering-Simplified-Book/">Click</a>
 * Nine Prompt Patterns That You Must Know if You Want To Become a Highly-Paid Prompt Engineer <a href="https://ai.plainenglish.io/nine-prompt-patterns-that-you-must-know-if-you-want-to-become-a-highly-paid-prompt-engineer-1981ec6c55b6">Click</a>
 * Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 <a href="https://arxiv.org/pdf/2312.16171v1.pdf">Click</a>
 
