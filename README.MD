@@ -24,6 +24,7 @@ A list of courses cover Generative AI and Large Language Model.
 * <a href="https://www.linkedin.com/learning/paths/develop-your-prompt-engineering-skills?u=117675186">Develop Your Prompt Engineering Skills</a>(6 Courses)  My certificate: <a href="https://www.linkedin.com/learning/certificates/02310d4010d5cec85d3c99bdab795c89ad9d0ebd2faa4a564b2cbdfdb97456de?u=117675186">Here</a>
 * <a href="https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-developers?u=117675186">Building Generative AI Skills for Developers</a>(5 Courses)  My certificate: <a href="https://www.linkedin.com/learning/certificates/7362ccf14bffc481415c4557b39ed8300a35ee46a4b021d8dfa993c79f0101ba?u=117675186">Here</a>
 * <a href="https://www.linkedin.com/learning/paths/building-generative-ai-skills-for-business-professionals?u=117675186">Building Generative AI Skills for Business Professionals</a>(7 Courses)  My certificate: <a href="https://www.linkedin.com/learning/certificates/1b493f672c696142be6186b57eed1ba1361c8c2d897e97401386b61ea701e9a1?u=117675186">Here</a>
+* <a href="https://www.linkedin.com/learning/paths/build-ai-aptitude-as-an-aspiring-manager?u=117675186">Build AI Aptitude as an Aspiring Manager</a>(5 Courses)  My certificate: <a href="https://www.linkedin.com/learning/certificates/2e22fa21ccbea5eeb0846066f1f24c9e8cbf3be9efff9937971732c7aeeee543?u=117675186">Here</a>
 
 ### Google Cloud
 * <a href="https://www.cloudskillsboost.google/paths/183">Generative AI for Developers Learning Path</a> (7 Courses & 2 Labs)
