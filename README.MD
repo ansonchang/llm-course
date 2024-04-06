@@ -63,8 +63,9 @@ A list of courses cover Generative AI and Large Language Model.
 
 ## 📝 Code LLM Researches & Articles
 
-* 2024/01/16 Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering <a href="https://arxiv.org/pdf/2401.08500.pdf">Click</a>
-
+* 2024/04/03 Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models <a href="https://arxiv.org/abs/2404.02575">Click</a>
+* 2024/01/16 Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering <a href="https://arxiv.org/abs/2401.08500">Click</a>7
+* 2023/12/08 Chain of Code: Reasoning with a Language Model-Augmented Code Emulator <a href="https://arxiv.org/abs/2312.04474">Click</a>
 * Panda: Performance Debugging for Databases using LLM Agents　<a href="https://assets.amazon.science/4f/47/4325f2b44c92963a2728a372ad3b/panda-performance-debugging-for-databases-using-llm-agents.pdf">Click</a>
 
 * 2023/12/27 How to Prompt LLMs for Text-to-SQL: A Study in Zero-shot, Single-domain, and Cross-domain Settings <a href="https://arxiv.org/pdf/2305.11853.pdf">Click</a>
