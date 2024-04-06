@@ -51,6 +51,7 @@ A list of courses cover Generative AI and Large Language Model.
 
 ### Enhance Inference Efficiency & Accuracy
 * Mamba: A shallow dive into a new architecture for LLMs  <a href="https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957">Click</a>
+* ReALM: Reference Resolution As Language Modeling <a href="ReALM: Reference Resolution As Language Modeling">Click</a>
 ### Enhance Accuracy, and keep Inference Efficiency
 * LLMLingua - Designing a Language for LLMs via Prompt Compression <a href="https://llmlingua.com/">Click</a>
 * Large Language Models are Null-Shot Learners　 <a href="https://arxiv.org/pdf/2401.08273v1.pdf">Click</a>
